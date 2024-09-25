@@ -1,0 +1,14 @@
+C:\Projetos\Aulas c#\PTI\bin\Debug\net8.0\PTI.exe
+C:\Projetos\Aulas c#\PTI\bin\Debug\net8.0\PTI.deps.json
+C:\Projetos\Aulas c#\PTI\bin\Debug\net8.0\PTI.runtimeconfig.json
+C:\Projetos\Aulas c#\PTI\bin\Debug\net8.0\PTI.dll
+C:\Projetos\Aulas c#\PTI\bin\Debug\net8.0\PTI.pdb
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.AssemblyInfoInputs.cache
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.AssemblyInfo.cs
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.csproj.CoreCompileInputs.cache
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.dll
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\refint\PTI.dll
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.pdb
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\PTI.genruntimeconfig.cache
+C:\Projetos\Aulas c#\PTI\obj\Debug\net8.0\ref\PTI.dll
